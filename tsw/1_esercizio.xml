@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<addressList>
+
+    <utente>
+        
+        <nome>Eliodoro</nome>
+        <cognome>Nappi</cognome>
+        <nazionalita>Italiana</nazionalita>
+        <sesso>M</sesso>
+        <data_nascita>
+        
+            <giorno>01</giorno>
+            <mese>gennaio</mese>
+            <anno>2003</anno>
+        
+        </data_nascita> 
+        <indirizzo>
+        
+            <via>Spinelli Tr. G. B. Basile</via>
+            <n_civico>7</n_civico>
+            <citta>Scafati</citta>
+            <CAP>84018</CAP>
+            <provincia>Salerno</provincia>
+
+        </indirizzo>
+        <email>eliodoronappi2003@gmail.com</email>
+        <email>e.nappi13@studenti.unisa.it</email>
+
+        <telefono>
+        
+            <cellulare>3388945696</cellulare>
+            <fisso>0818509322</fisso>
+
+        </telefono>
+
+    </utente>
+
+    <utente>
+        
+        <nome>Mario</nome>
+        <cognome>Rossi</cognome>
+        <nazionalita>Italiana</nazionalita>
+        <sesso>M</sesso>
+        <data_nascita>
+        
+            <giorno>10</giorno>
+            <mese>febbraio</mese>
+            <anno>2010</anno>
+        
+        </data_nascita> 
+        <indirizzo>
+        
+            <via>Roma</via>
+            <n_civico>30</n_civico>
+            <citta>Napoli</citta>
+            <CAP></CAP>
+            <provincia>Roma</provincia>
+
+        </indirizzo>
+        <email>eliodoronappi2003@gmail.com</email>
+        <email>e.nappi13@studenti.unisa.it</email>
+
+        <telefono>
+        
+            <cellulare>3388945696</cellulare>
+            <fisso>0818509322</fisso>
+
+        </telefono>
+
+    </utente>
+
+</addressList>
